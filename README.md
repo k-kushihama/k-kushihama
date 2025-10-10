@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/kushihama">
+    <img src="https://github.com/kushihama.png" width="100px" alt="kushihama's profile picture">
+  </a>
+  <h1>Hi there, I'm kushihama! 👋</h1>
+</div>
 
-<!--
-**k-kushihama/k-kushihama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I'm a first-year student. Department of **Computer Science** at **Chiba Institute of Technology**.
+- 🎵 My hobby is DTM. I love creating music with my computer!
+- 💻 I'm also passionate about **Web Programming** and enjoy building interactive web applications.
+- 🌱 I'm currently learning more about backend technologies and mobile development.
+- 📫 How to reach me: [info@snap-lynk.co.jp](mailto:info@snap-lynk.co.jp)
+
+---
+
+Here are some technologies I use:
+
+#### Languages & Markup:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,flutter" />
+</p>
+
+#### Tools & Platforms:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,windows,ubuntu,mysql,nginx" />
+</p>
+</p></p>
+
+---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushihama/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
