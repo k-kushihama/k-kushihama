@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/kushihama">
-    <img src="https://github.com/kushihama.png" width="100px" alt="kushihama's profile picture">
+  <a href="https://github.com/k-kushihama">
+    <img src="https://github.com/k-kushihama.png" width="100px" alt="kushihama's profile picture">
   </a>
   <h1>Hi there, I'm kushihama! 👋</h1>
 </div>
