@@ -39,7 +39,7 @@ Here are some technologies I use:
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.wantedly.com/id/k_kushihama" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly"/>
+    <img src="https://img.shields.io/badge/Wantedly-%230077B5.svg?&style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly"/>
   </a>
 </p>
 
