@@ -45,3 +45,9 @@ Here are some technologies I use:
 
 ---
 
+＜a href="https://github.com/anuraghazra/github-readme-stats">
+  ＜img align="left" src="https://github-readme-stats.vercel.app/api?username=k-kushihama&count_private=true&show_icons=true&theme=react" />
+
+＜a href="https://github.com/anuraghazra/github-readme-stats">
+  ＜img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kushihama&count_private=true&theme=react" />
+
