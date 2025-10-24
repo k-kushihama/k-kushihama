@@ -45,4 +45,4 @@ Here are some technologies I use:
 </p>
 
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kushihama" />
