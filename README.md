@@ -41,14 +41,8 @@ Here are some technologies I use:
   <a href="https://www.wantedly.com/id/k_kushihama" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Wantedly-%230077B5.svg?&style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly"/>
   </a>
+  ＜a href="https://github.com/anuraghazra/github-readme-stats">
+  ＜img align="left" src="https://github-readme-stats.vercel.app/api?username=k-kushihama&count_private=true&show_icons=true&theme=react"/>
 </p>
 
 ---
-
-＜a href="https://github.com/anuraghazra/github-readme-stats">
-  ＜img align="left" src="https://github-readme-stats.vercel.app/api?username=k-kushihama&count_private=true&show_icons=true&theme=react">
-</a>
-
-＜a href="https://github.com/anuraghazra/github-readme-stats">
-  ＜img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kushihama&count_private=true&theme=react" />
-</a>
