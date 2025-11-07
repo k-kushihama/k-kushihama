@@ -14,7 +14,7 @@
 - 💻 I'm also passionate about **Web Programming** and enjoy building interactive web applications.
 - 🌱 I'm currently learning more about backend technologies and mobile development.
 - 📫 How to reach me: [info@snap-lynk.co.jp](mailto:info@snap-lynk.co.jp)
-- 🖥️ My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices.github.io/">Detail</a>
+- 🖥️ My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Detail</a>
 ---
 
 Here are some technologies I use:
