@@ -14,6 +14,7 @@
 - 💻 I'm also passionate about **Web Programming** and enjoy building interactive web applications.
 - 🌱 I'm currently learning more about backend technologies and mobile development.
 - 📫 How to reach me: [info@snap-lynk.co.jp](mailto:info@snap-lynk.co.jp)
+- 📖 Exam currently studying for: <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">Applied Information Technology Engineer Examination</a>
 - 🖥️ My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Detail</a>
 ---
 
