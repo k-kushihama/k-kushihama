@@ -9,13 +9,13 @@
 
 ### About Me
 
-- 🏫 I'm a first-year student. Department of **Computer Science** at **Chiba Institute of Technology**.
-- 🎵 My hobby is DTM. I love creating music with my computer!
-- 💻 I'm also passionate about **Web Programming** and enjoy building interactive web applications.
-- 🌱 I'm currently learning more about backend technologies and mobile development.
-- 📫 How to reach me: [info@snap-lynk.co.jp](mailto:info@snap-lynk.co.jp)
-- 📖 Exam currently studying for: <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">AP</a>
-- 🖥️ My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Here</a>
+- 【Affiliation】Department of **Computer Science** at **Chiba Institute of Technology**. & CEO of SnapLynk LLC.
+- 【Hobby】My hobby is DTM.
+- 【Apps】**Web Programming** and enjoy building interactive web applications.
+- 【Develop】I'm currently learning more about backend technologies and mobile development.
+- 【Contact】How to reach me: [info@snap-lynk.co.jp](mailto:info@snap-lynk.co.jp)
+- 【Study】Exam currently studying for: <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">AP</a>
+- 【Devices】My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Here</a>
 ---
 
 Here are some technologies I use:
