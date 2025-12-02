@@ -10,7 +10,7 @@
 ### About Me
 
 - 【Affiliation】Department of **Computer Science** at **Chiba Institute of Technology**. & CEO of SnapLynk LLC.
-- 【Hobby】My hobby is DTM.
+- 【Hobby】DTM. Guitar. CompanyMgmt.
 - 【Apps】**Web Programming** and enjoy building interactive web applications.
 - 【Develop】I'm currently learning more about backend technologies and mobile development.
 - 【Contact】How to reach me: [info@snap-lynk.co.jp](mailto:info@snap-lynk.co.jp)
