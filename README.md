@@ -46,4 +46,4 @@ Here are some technologies I use:
 </p>
 
 ---
-<img align="left" src="https://github-readme-stats-k-kushihamas-projects.vercel.app/api?username=k-kushihama&show_icons=true&theme=vue-dark/>
+<img align="left" src="https://github-readme-stats-k-kushihamas-projects.vercel.app/api?username=k-kushihama&show_icons=true&theme=vue-dark"/>
