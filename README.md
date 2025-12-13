@@ -27,7 +27,7 @@ Here are some technologies I use:
 
 #### Tools & Platforms:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,windows,ubuntu,mysql,nginx" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,windows,ubuntu,mysql,nginx,vercel" />
 </p>
 </p></p>
 
