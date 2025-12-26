@@ -16,6 +16,7 @@
 - 【Contact】How to reach me: [info@snap-lynk.co.jp](mailto:info@snap-lynk.co.jp)
 - 【Study】Exam currently studying for: <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">AP</a>
 - 【Devices】My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Here</a>
+- 変な癖があり，containerなどはnakamiと書きます．．
 ---
 
 Here are some technologies I use:
