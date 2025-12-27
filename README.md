@@ -13,7 +13,7 @@
 - 【Hobby】DTM. Guitar. CompanyMgmt.
 - 【Apps】**Web Programming** and enjoy building interactive web applications.
 - 【Develop】I'm currently learning more about backend technologies and mobile development.
-- 【Contact】How to reach me: [info@snap-lynk.co.jp](mailto:k-kushihama@snap-lynk.co.jp)
+- 【Contact】How to reach me: [k-kushihama@snap-lynk.co.jp](mailto:k-kushihama@snap-lynk.co.jp)
 - 【Study】Exam currently studying for: <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">AP</a>
 - 【Devices】My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Here</a>
 - 変な癖があり，containerなどはnakamiと書きます．．
