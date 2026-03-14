@@ -34,7 +34,7 @@ Here are some technologies I use:
 
 #### My Portfolio:
 <p align="center">
-  <a href="[https://www.wantedly.com/id/k_kushihama](https://qualport.jp/?u=rook)" target="_blank" rel="noreferrer">
+  <a href="https://qualport.jp/?u=rook" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/QualPort-%230077B5.svg?&style=for-the-badge&logo=QualPort&logoColor=white" alt="QualPort"/>
   </a>
   
