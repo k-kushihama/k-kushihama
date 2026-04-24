@@ -22,7 +22,7 @@ Here are some technologies I use:
 
 #### Languages & Markup:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,flutter,dart" />
 </p>
 
 #### Tools & Platforms:
