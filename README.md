@@ -1,86 +1,65 @@
-# GitHub Language Stats Generator
+<div align="center">
+  <a href="https://github.com/k-kushihama">
+    <img src="https://github.com/k-kushihama.png" width="100px" alt="kushihama's profile picture">
+  </a>
+  <h1>Hi there, I'm kushihama! 👋</h1>
+</div>
 
-自分のGitHubアカウントの全リポジトリ（プライベート含む）から言語使用率を集計し，README.md用のSVGカードを生成するスクリプト．サーバー不要．GitHub Actionsで完結する．
+---
 
-## セットアップ
+### About Me
 
-### 1. プロフィールリポジトリに配置
+- 【Affiliation】Department of **Computer Science** at **Chiba Institute of Technology**. & CEO of SnapLynk Co.,Ltd.
+- 【Hobby】DTM. Guitar. CompanyMgmt.
+- 【Apps】**Web Programming** and enjoy building interactive web applications.
+- 【Develop】I'm currently learning more about backend technologies and mobile development.
+- 【Contact】How to reach me: [k-kushihama@snap-lynk.co.jp](mailto:k-kushihama@snap-lynk.co.jp)
+- 【Study】Exam currently studying for: <a href="https://www.ipa.go.jp/shiken/kubun/ap.html">AP</a>
+- 【Devices】My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Here</a>
+---
 
-このプロジェクトのファイル一式を `k-kushihama/k-kushihama` リポジトリ（プロフィールREADMEリポジトリ）に配置する．
+Here are some technologies I use:
 
-### 2. Personal Access Tokenを発行
+#### Languages & Markup:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,flutter,dart" />
+</p>
 
-[github.com/settings/tokens/new](https://github.com/settings/tokens/new) でclassic tokenを作成する．
+#### Tools & Platforms:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,windows,ubuntu,mysql,nginx,vercel,supabase,cloudflare" />
+</p>
+</p></p>
 
-- スコープ：`repo`（プライベートリポジトリの言語データ取得に必須）
-- 有効期限：長めに設定する．期限切れでカード更新が止まる
-
-### 3. Secretsに登録
-
-リポジトリの `Settings > Secrets and variables > Actions` で新しいsecretを作成．
-
-- Name: `STATS_PAT`
-- Value: 手順2で取得したトークン
-
-### 4. ワークフロー初回実行
-
-`Actions` タブから `Update Language Stats` を選び，`Run workflow` で手動実行．成功すると `generated/` ディレクトリに2つのSVGが生成・コミットされる．
-
-### 5. README.mdに埋め込み
-
-`k-kushihama/k-kushihama` の `README.md` に以下を追加．`prefers-color-scheme` でダーク／ライト自動切替される．
-
-```markdown
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./generated/top-langs-dark.svg">
   <img alt="Top Languages" src="./generated/top-langs-light.svg">
 </picture>
-```
 
-## カスタマイズ
+#### My Portfolio:
+<p align="center">
+  <a href="https://qualport.jp/?u=rook" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/QualPort-%230077B5.svg?&style=for-the-badge&logo=QualPort&logoColor=white" alt="QualPort"/>
+  </a>
+  
+</p>
 
-`.github/workflows/update-stats.yml` の `env` セクションで変更可能．
+---
 
-| 変数 | デフォルト | 説明 |
-|------|-----------|------|
-| `TOP_N` | `8` | 表示する言語数 |
-| `CARD_WIDTH` | `500` | カード幅（px） |
-| `CARD_TITLE` | `Most Used Languages` | カードのタイトル |
-| `EXCLUDE_LANGS` | (空) | 除外する言語．カンマ区切り（例: `HTML,CSS`） |
+### Connect with Me
 
-## ローカル動作確認
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushihama/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.wantedly.com/id/k_kushihama" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Wantedly-%230077B5.svg?&style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly"/>
+  </a>
 
-```bash
-npm install
-GH_TOKEN=ghp_xxxxx npm run generate
-```
+</p>
 
-`./generated/top-langs-light.svg` と `./generated/top-langs-dark.svg` が生成される．
+---
+<!-- <img align="left" src="https://github-readme-stats-inky-zeta-69.vercel.app/api?username=k-kushihama&show_icons=true&theme=vue-dark"/> -->
 
-## 仕組み
 
-- GitHub GraphQL APIで `viewer.repositories(ownerAffiliations: OWNER, isFork: false)` を全ページ取得
-- 各リポジトリの言語バイト数を集計してパーセンテージを計算
-- 上位N言語を積み上げバー＋凡例で表示するSVGをlight/dark両テーマで生成
-- GitHub Actionsで毎日00:00 UTCに自動実行・自動コミット
-- コミットメッセージに `[skip ci]` を含めることで無限ループを防止
 
-## 既知の制約
-
-- **organization配下のリポジトリは含まれない**．個人アカウント `k-kushihama` 名義のもののみ
-- **GitHub Linguistの判定に従う**．バイト数ベースなので，vendor配下や生成ファイル，巨大なJSONなどが入っていると実態と乖離する
-- 対策：各リポジトリ直下に `.gitattributes` を置く
-
-```gitattributes
-node_modules/* linguist-vendored
-vendor/* linguist-vendored
-dist/* linguist-generated=true
-*.min.js linguist-vendored
-*.min.css linguist-vendored
-```
-
-## セキュリティ
-
-- PATは `repo` スコープが必要．実質フルアクセス権なので絶対にコミットしない
-- Vercel等の外部サーバーには渡さない．GitHub Secrets内のみで完結する設計
-- PAT漏洩時は即 [revoke](https://github.com/settings/tokens) する
