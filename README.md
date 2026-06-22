@@ -18,7 +18,7 @@
 - 【Devices】My PC & Server Detail: <a href="https://github.com/k-kushihama/mydevices/">Here</a>
 ---
 
-Here are some technologies I use:
+### Here are some technologies I use:
 
 #### Languages & Markup:
 <p align="center">
