@@ -31,10 +31,14 @@ Here are some technologies I use:
 </p>
 </p></p>
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./generated/top-langs-dark.svg">
   <img alt="Top Languages" src="./generated/top-langs-light.svg">
 </picture>
+
+</div>
 
 #### My Portfolio:
 <p align="center">
