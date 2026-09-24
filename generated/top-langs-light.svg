@@ -2,7 +2,7 @@
   <rect x="0.5" y="0.5" width="499" height="199" rx="8" fill="none" stroke="#d0d7de"/>
   <text x="24" y="38" fill="#1f2328" font-size="16" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Most Used Languages</text>
   <rect x="24" y="54" width="452" height="10" rx="5" fill="#eaeef2"/>
-  <g clip-path="url(#clip)"><rect x="24.00" y="54" width="302.07" height="10" fill="#4F5D95"/><rect x="326.07" y="54" width="88.49" height="10" fill="#f1e05a"/><rect x="414.56" y="54" width="27.73" height="10" fill="#663399"/><rect x="442.29" y="54" width="17.73" height="10" fill="#e34c26"/><rect x="460.02" y="54" width="6.78" height="10" fill="#3178c6"/><rect x="466.80" y="54" width="4.19" height="10" fill="#00B4AB"/><rect x="470.99" y="54" width="2.73" height="10" fill="#F05138"/><rect x="473.72" y="54" width="2.28" height="10" fill="#878787"/></g>
+  <g clip-path="url(#clip)"><rect x="24.00" y="54" width="302.03" height="10" fill="#4F5D95"/><rect x="326.03" y="54" width="88.48" height="10" fill="#f1e05a"/><rect x="414.52" y="54" width="27.73" height="10" fill="#663399"/><rect x="442.24" y="54" width="17.72" height="10" fill="#e34c26"/><rect x="459.97" y="54" width="6.83" height="10" fill="#3178c6"/><rect x="466.80" y="54" width="4.19" height="10" fill="#00B4AB"/><rect x="470.99" y="54" width="2.73" height="10" fill="#F05138"/><rect x="473.72" y="54" width="2.28" height="10" fill="#878787"/></g>
   <defs>
     <clipPath id="clip">
       <rect x="24" y="54" width="452" height="10" rx="5"/>
